@@ -1,3 +1,4 @@
+[![CI/CD Pipeline](https://github.com/your-username/your-repo/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/your-username/your-repo/actions)
 # pce-mcp
 
 A production-ready [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server for [Pextra CloudEnvironment®](https://pextra.cloud/cloudenvironment).
